@@ -1,0 +1,14 @@
+C:\Users\Aloster\source\repos\homejob2\homejob2\bin\Debug\net6.0\homejob2.exe
+C:\Users\Aloster\source\repos\homejob2\homejob2\bin\Debug\net6.0\homejob2.deps.json
+C:\Users\Aloster\source\repos\homejob2\homejob2\bin\Debug\net6.0\homejob2.runtimeconfig.json
+C:\Users\Aloster\source\repos\homejob2\homejob2\bin\Debug\net6.0\homejob2.dll
+C:\Users\Aloster\source\repos\homejob2\homejob2\bin\Debug\net6.0\ref\homejob2.dll
+C:\Users\Aloster\source\repos\homejob2\homejob2\bin\Debug\net6.0\homejob2.pdb
+C:\Users\Aloster\source\repos\homejob2\homejob2\obj\Debug\net6.0\homejob2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aloster\source\repos\homejob2\homejob2\obj\Debug\net6.0\homejob2.AssemblyInfoInputs.cache
+C:\Users\Aloster\source\repos\homejob2\homejob2\obj\Debug\net6.0\homejob2.AssemblyInfo.cs
+C:\Users\Aloster\source\repos\homejob2\homejob2\obj\Debug\net6.0\homejob2.csproj.CoreCompileInputs.cache
+C:\Users\Aloster\source\repos\homejob2\homejob2\obj\Debug\net6.0\homejob2.dll
+C:\Users\Aloster\source\repos\homejob2\homejob2\obj\Debug\net6.0\ref\homejob2.dll
+C:\Users\Aloster\source\repos\homejob2\homejob2\obj\Debug\net6.0\homejob2.pdb
+C:\Users\Aloster\source\repos\homejob2\homejob2\obj\Debug\net6.0\homejob2.genruntimeconfig.cache

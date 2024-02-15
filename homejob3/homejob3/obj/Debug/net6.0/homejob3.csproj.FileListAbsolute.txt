@@ -1,0 +1,15 @@
+C:\Users\Aloster\source\repos\homejob3\homejob3\bin\Debug\net6.0\homejob3.exe
+C:\Users\Aloster\source\repos\homejob3\homejob3\bin\Debug\net6.0\homejob3.deps.json
+C:\Users\Aloster\source\repos\homejob3\homejob3\bin\Debug\net6.0\homejob3.runtimeconfig.json
+C:\Users\Aloster\source\repos\homejob3\homejob3\bin\Debug\net6.0\homejob3.dll
+C:\Users\Aloster\source\repos\homejob3\homejob3\bin\Debug\net6.0\ref\homejob3.dll
+C:\Users\Aloster\source\repos\homejob3\homejob3\bin\Debug\net6.0\homejob3.pdb
+C:\Users\Aloster\source\repos\homejob3\homejob3\obj\Debug\net6.0\homejob3.csproj.AssemblyReference.cache
+C:\Users\Aloster\source\repos\homejob3\homejob3\obj\Debug\net6.0\homejob3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aloster\source\repos\homejob3\homejob3\obj\Debug\net6.0\homejob3.AssemblyInfoInputs.cache
+C:\Users\Aloster\source\repos\homejob3\homejob3\obj\Debug\net6.0\homejob3.AssemblyInfo.cs
+C:\Users\Aloster\source\repos\homejob3\homejob3\obj\Debug\net6.0\homejob3.csproj.CoreCompileInputs.cache
+C:\Users\Aloster\source\repos\homejob3\homejob3\obj\Debug\net6.0\homejob3.dll
+C:\Users\Aloster\source\repos\homejob3\homejob3\obj\Debug\net6.0\ref\homejob3.dll
+C:\Users\Aloster\source\repos\homejob3\homejob3\obj\Debug\net6.0\homejob3.pdb
+C:\Users\Aloster\source\repos\homejob3\homejob3\obj\Debug\net6.0\homejob3.genruntimeconfig.cache
